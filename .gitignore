@@ -1,0 +1,18 @@
+# Байткод Python
+__pycache__/
+*.pyc
+
+# Кэш pytest
+.pytest_cache/
+
+# Виртуальное окружение
+venv/
+
+# Файлы среды
+.env
+
+# Файлы VS Code
+.vscode/
+
+# Файлы PyCharm
+.idea/
