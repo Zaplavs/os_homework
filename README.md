@@ -116,6 +116,6 @@ python -m pytest tests/test_task_2.py
 1.  Еще раз перечитать [статью на Хабре](https://habr.com/ru/articles/your-article-id/).
 2.  Поэкспериментировать с командами в отдельном Python-файле.
 
-Нашли ошибку в задании или тестах? Пишите в мой блог в телеграм https://t.me/+NlTdqmVuBkIzMDBi или Смело создавайте 'Issue' здесь, на GitHub.
+Нашли ошибку в задании или тестах? Пишите в мой блог в телеграм https://t.me/+NlTdqmVuBkIzMDBi.
 
 Остались вопросы или хотите обсудить решения? Жду вас в комментариях в своем телеграм-блоге: https://t.me/+NlTdqmVuBkIzMDBi.
